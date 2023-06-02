@@ -11,3 +11,8 @@ on the 6502 assembler chip found in many early computers and gaming consles.
 when this program is ran it outputs a ROM file that can be used through an emulator to see what it does.
 My emmulator is FCEUX and because there are no graphics you will need to use the debuger to see the operations
 being performed.
+
+
+When the ROM is ran, it produces an x value of 0f and a y value of 0
+x is 0f because it is in hexidecimal from.
+0f = 15
